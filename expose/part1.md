@@ -1,7 +1,6 @@
 # Part 1
 
 - [question 1(var)](/expose/part1-question1.js)](): line 9 prints: values added:  20.
-- 
 - [question 2(var)](/expose/part1-question2.js):line 13 prints: final result:  20.
 - [question 3(let)](/expose/part1-question3.js): line 9 prints: values added:  20.
 - [question 4(let)](/expose/part1-question4.js): line 13 prints result not define because let is - define in the if statment can not access it.
