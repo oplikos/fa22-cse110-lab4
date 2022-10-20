@@ -11,4 +11,30 @@
 - [question 9](/expose/part2-question9.js): just like before i is let and it cant go obove the scope of for loop so same as question 5 it will give error i is not defined because it is getting defined in the for loop scop.
 - [question 10](/expose/part2-question10.js): this will to print 3 because the lenght is const and is not beeing changed from the begining it will run smothly 
 - [question 11](/expose/part2-question11.js): this will return a Array [50, 100, 150] becuase everytime is properly layed down and not interferance and in for loop when we are calculating the discountedPrice as we are definein it as const and pushing it to discounted and when it goes back to second loop it will still work cause its beeing as ques cariable constant
-- [question 12](/expose/part2-question12.js): 
+- [question 12](/expose/part2-question12.js): <br>
+        A. console.log(student.name);<br>
+        B. console.log(student['Grad Year']);<br>
+        C. console.log(student.greeting());<br>
+        D. console.log(student['Favorite Teacher'].name);<br>
+        E. console.log(student.courseload[0]);<br>
+- [question 13](/expose/part2-question13.js):Arithmetic <br>
+        A. ‘3’ + 2 = 32.<br>
+        B. ‘3’ - 2 = 1.<br>
+        C. 3 + null = 3.<br>
+        D. ‘3’ + null = 3null.<br>
+        E. true + 3 = 4.<br>
+        F. false + null = 0.<br>
+        G. '3' + undefined = 3undefined.<br>
+        h. '3' - undefined = NaN.<br>
+- [question14](part2-question14.js): Comparison <br> 
+A. '2' > 1 = true.<br>
+B. '2' < '12' = false.<br>
+C. 2 == '2' = true.<br>
+D. 2 === '2' = false.<br>
+E. true == 2 = false.<br>
+F. true === Boolean(2) = true.<br>
+- [question15](part2-question15.js):
+- [question16](part2-question16.js): 
+- [question17](part2-question17.js):
+- [question18](part2-question18.js): 
+- [question19](part2-question19.js): 
