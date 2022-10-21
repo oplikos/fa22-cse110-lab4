@@ -34,7 +34,7 @@
         E. true == 2 = false.<br>
         F. true === Boolean(2) = true.<br>
 - [question15](part2-question15.js):the both do compareson of the values but the === will also check the data type shown in the example(part2-question15.js)<br>
-- [question16](part2-question16.js): ![img](/sc-q16.jpg)<br>
+- [question16](part2-question16.js): ![!img](sc-q16.jpg)<br>
 - [question17](part2-question17.js):very simply we call modify with array and function as parameter. in the function modify we will call the the function in the parameter (doSomething) as renamed callback for each loop values it will multiply and push it to new array and return it<br>
 - [question18](part2-question18.js): <br>
 - [question19](part2-question19.js): 
