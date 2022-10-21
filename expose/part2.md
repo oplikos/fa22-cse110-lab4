@@ -34,7 +34,7 @@
         *Tabspace* E. true == 2 = false.<br>
         *Tabspace* F. true === Boolean(2) = true.<br>
 - [question15](part2-question15.js):the both do compareson of the values but the === will also check the data type shown in the example(part2-question15.js)<br>
-- [question16](part2-question16.js): ![!img](sc-q16.jpg)<br>
+- [question16](part2-question16.js): <br>![!img](sc-q16.jpg)<br>
 - [question17](part2-question17.js):very simply we call modify with array and function as parameter. in the function modify we will call the the function in the parameter (doSomething) as renamed callback for each loop values it will multiply and push it to new array and return it<br>
-- [question18](part2-question18.js): ![!img](sc-q18.jpg)<br>
+- [question18](part2-question18.js): <br> ![!img](sc-q18.jpg)<br>
 - [question19](part2-question19.js): very simple so when we call the function it will print 1 cuase there is no delay then it will continue to second line where it will put in its queue after 1 second to print the log 2, read line 3 where its saying to print 3 at time 0 but the 4the line print 4 is before the timer starts so it will add the 4 right after 1, so the function is called it prints 1 and prints 4 then as soon as the timer starts it prints 3 and then it prints 2 <br>
