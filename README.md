@@ -1,4 +1,4 @@
-# fa22-cse110-lab4
+# FA22 CSE110 LAB 4
 
 
 ***Expose***
